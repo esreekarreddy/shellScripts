@@ -1,0 +1,3 @@
+Hi
+Welcome to VIM editor
+This file is a dummy used for scripting purpose
